@@ -1,0 +1,5 @@
+# Logfile created on 2019-06-06 08:59:07 +0000 by logger.rb/66358
+[2019-06-06T08:59:07+00:00] FATAL: Failed to open or create log file at demo.log: ArgumentError (Log level must be one of :trace, :debug, :info, :warn, :error, or :fatal)
+[2019-06-06T08:59:07+00:00] FATAL: Aborting due to invalid 'log_location' configuration
+[2019-06-06T08:59:26+00:00] FATAL: Failed to open or create log file at demo.log: ArgumentError (Log level must be one of :trace, :debug, :info, :warn, :error, or :fatal)
+[2019-06-06T08:59:26+00:00] FATAL: Aborting due to invalid 'log_location' configuration

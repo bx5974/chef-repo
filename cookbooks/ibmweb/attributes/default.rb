@@ -1,0 +1,5 @@
+default['postgresql']['port'] = "5432"
+default['postgresql']['listen_address'] = "*"
+default['postgresql']['data_dir'] = "/var/lib/postgresql"
+default['postgresql']['install_method'] = "source"
+default['postgresql']['version'] = "9.3"
